@@ -1,2 +1,3 @@
-# architecture-insuretech
+Задание 6.
 
+В файле backend.example.com.conf расположена конфигурация nginx с ограничением числа запросов до 10 в минуту.
