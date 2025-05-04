@@ -4,7 +4,7 @@ metadata:
   name: scaletestapp-service
 spec:
   selector:
-    app.kubernetes.io/name: scaletestapp
+    app: scaletestapp
   ports:
     - protocol: TCP
       port: 8080
