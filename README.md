@@ -1,2 +1,4 @@
-# architecture-insuretech
+# Создание highload в realtime-среде
+
+Решение каждого из заданий отражено в README.md в соответствующей папке.
 
